@@ -2,7 +2,7 @@
 # sudo apt-get build-dep qtbase5-dev cmake ninja-build
 
 # git clone https://github.com/AndreiCherniaev/QTBUG-119469_test.git
-# export MyQtBaseDir="QTBUG-119469_test"
+# cd "QTBUG-119469_test"
 export MyQtBaseDir=$PWD
 cd ${MyQtBaseDir}
 
